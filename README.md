@@ -1,4 +1,4 @@
-#SearchApp
+# SearchApp
 
 This is web simple application capable of performing search, insert, autofill, autocorrect.
 
